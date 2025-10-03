@@ -71,6 +71,4 @@ Commands and telemetry are exchanged using JSON over TCP:
 - P95 response time < 150ms (local)
 - 70%+ test coverage
 
-## License
 
-MIT License
